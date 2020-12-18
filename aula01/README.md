@@ -17,9 +17,8 @@ your page.
 ## What does the web server do?
 * A web server works 24/7 waiting for a request (imaeges,videos or whatever), and when it's requested it finds the resource and sends back to the browser
 
-| foo | bar |
-| --- | --- |
-| baz | bim |
-<img src="imagens/aula01.png">
+![](imagens/aula01.png "exemplo de web server")
+[ir para read.md](..\README.md)
+
 
 ## What you write (the html)
