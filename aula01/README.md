@@ -18,7 +18,7 @@ your page.
 * A web server works 24/7 waiting for a request (imaeges,videos or whatever), and when it's requested it finds the resource and sends back to the browser
 
 ![](imagens/aula01.png "exemplo de web server")
-[ir para read.md](..\README.md)
+[ir para read.md](https://www.uol.com.br)
 
 
 ## What you write (the html)
