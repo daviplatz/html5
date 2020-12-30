@@ -20,18 +20,18 @@ your page.
 ## What you write (the html)
 
 ### Elements of the HTML
-<img src="imagens/html imagem.png">
+`<html>`
 
 ### it finishes and ends everything
 
-<img src="imagens/head imagem.png">
+`<head>`
 
 ### You use it to do java script, css and title
-<img src="imagens/title imagem.png">
+`<title>`
 
 ### The name of the web page on the top <img src="imagens/onde fica o title.png">
 
-<img src="imagens/body imagem.png">
+`<body>`
 
 ### It's the head's brother (comparing to a body the're not  inside each other, the're together). Here you will use p, h1 and etc.
 
